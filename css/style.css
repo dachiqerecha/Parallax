@@ -1,0 +1,54 @@
+.container{
+    width: 1170;
+    margin:0 auto;
+    
+}
+body{
+    background-color: gray;
+}
+.Logo{
+    width: 60px;
+    vertical-align: middle;
+    justify-content: center;
+    margin-right: 100px;
+    margin-left: 15px;
+    /*animation-name: example;
+    animation-duration: 4s;*/
+}
+/*@keyframes example {
+    from {background-color: purple;}
+    to {background-color: yellow;}
+  }*/
+nav{
+    display: inline-block;
+    vertical-align: middle;
+}
+li{
+    display: inline-block;
+    margin-right: 100px;
+}
+a:hover {
+    background-color:aqua;
+}
+img{
+    width: 200px;
+}
+        
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins', sans-serif;
+}
+.wrapper{
+    margin-right: 15px;
+    width: 1170px;
+}
+.iuliu{
+    width: 1500px;
+    height: 600px;
+}   
+.te-lun-ou-yang.jpg{
+    width: 1500px;
+    height: 700px;
+}
